@@ -1,0 +1,1 @@
+﻿$testObject = New-Object -ComObject "wscript.network"
